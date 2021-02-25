@@ -1,0 +1,26 @@
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.deps.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.runtimeconfig.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.runtimeconfig.dev.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.dll
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.csprojAssemblyReference.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.AssemblyInfoInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.AssemblyInfo.cs
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.csproj.CoreCompileInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.dll
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.genruntimeconfig.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.csprojAssemblyReference.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.AssemblyInfoInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.AssemblyInfo.cs
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.csproj.CoreCompileInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.dll
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.deps.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.runtimeconfig.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.runtimeconfig.dev.json
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.dll
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\bin\Debug\netcoreapp3.1\ConsoleFraction.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\ConsoleFraction\ConsoleFraction\obj\Debug\netcoreapp3.1\ConsoleFraction.genruntimeconfig.cache

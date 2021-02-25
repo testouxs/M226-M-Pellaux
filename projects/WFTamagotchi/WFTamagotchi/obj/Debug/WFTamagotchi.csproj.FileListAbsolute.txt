@@ -1,0 +1,10 @@
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\bin\Debug\WFTamagotchi.exe.config
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\bin\Debug\WFTamagotchi.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\bin\Debug\WFTamagotchi.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.csprojAssemblyReference.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.Properties.Resources.resources
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.csproj.GenerateResource.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\WFTamagotchi\WFTamagotchi\obj\Debug\WFTamagotchi.frm1.resources

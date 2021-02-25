@@ -1,0 +1,10 @@
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\bin\Debug\Convertisseur_MVC.exe.config
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\bin\Debug\Convertisseur_MVC.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\bin\Debug\Convertisseur_MVC.pdb
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.csprojAssemblyReference.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.Form1.resources
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.Properties.Resources.resources
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.csproj.GenerateResource.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.csproj.CoreCompileInputs.cache
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.exe
+C:\Users\ERIK RAPIN\Desktop\folder\Year 3\Module M226 Pellaux\projects\Convertisseur\Convertisseur_MVC\Convertisseur_MVC\obj\Debug\Convertisseur_MVC.pdb
