@@ -1,0 +1,52 @@
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csprojAssemblyReference.cache
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfoInputs.cache
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfo.cs
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csproj.CoreCompileInputs.cache
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.exe
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.deps.json
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.json
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.dev.json
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.dll
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.pdb
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.dll
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.pdb
+C:\Users\czana\source\repos\TriVoiture\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.genruntimeconfig.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.exe
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.deps.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.dev.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csprojAssemblyReference.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfoInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfo.cs
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csproj.CoreCompileInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.genruntimeconfig.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.exe
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.deps.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.dev.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csprojAssemblyReference.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfoInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfo.cs
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csproj.CoreCompileInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.genruntimeconfig.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.exe
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.deps.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.runtimeconfig.dev.json
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\bin\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csprojAssemblyReference.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfoInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.AssemblyInfo.cs
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.csproj.CoreCompileInputs.cache
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.dll
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.pdb
+D:\#08_COURS\2020-2021\MODULES-2020-2021\M226\#_NEW\SORTING\TriVoitureManuel2Critères - Eleve\TriVoiture\obj\Debug\netcoreapp3.1\TriVoiture.genruntimeconfig.cache

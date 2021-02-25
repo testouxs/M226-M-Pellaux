@@ -7,8 +7,6 @@ namespace TriVoiture
     class Program
     {
 
-
-
         static void Main(string[] args)
         {
             Voiture[] TableauVoitures = new Voiture[5];
@@ -49,8 +47,10 @@ namespace TriVoiture
             Console.WriteLine(Environment.NewLine);
             // Provoque une erreur
             try
-            { 
+            {
                 /* UTILISEZ LINQ POUR TRIER LE TABLEAU SELON LA PUISSANCE EN SENS INVERSE */
+                IEnumerable<Voiture> TableauVoituresOrderBy = TableauVoitures.OrderBy(voit => voit.Puissance);
+                TableauVoitures = TableauVoituresOrderBy.ToArray();
 
                 Console.WriteLine(Environment.NewLine);
                 Console.WriteLine("Tableau trié:");
@@ -68,6 +68,9 @@ namespace TriVoiture
             try
             {
                 /* UTILISEZ LINQ POUR TRIER LA LISTE SELON LA PUISSANCE EN SENS INVERSE */
+
+                IEnumerable<Voiture> TableauVoituresOrderBy = ListeVoitures.OrderByDescending(voit => voit.Puissance);
+                ListeVoitures = TableauVoituresOrderBy.ToList();
 
                 Console.WriteLine(Environment.NewLine);
 

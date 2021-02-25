@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\#08_COURS\\2020-2021\\MODULES-2020-2021\\M226\\#_NEW\\SORTING\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj": {}
+    "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_04_TriVoitureOrderBy_Eleve\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj": {}
   },
   "projects": {
-    "D:\\#08_COURS\\2020-2021\\MODULES-2020-2021\\M226\\#_NEW\\SORTING\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj": {
+    "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_04_TriVoitureOrderBy_Eleve\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\#08_COURS\\2020-2021\\MODULES-2020-2021\\M226\\#_NEW\\SORTING\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj",
+        "projectUniqueName": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_04_TriVoitureOrderBy_Eleve\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj",
         "projectName": "TriVoiture",
-        "projectPath": "D:\\#08_COURS\\2020-2021\\MODULES-2020-2021\\M226\\#_NEW\\SORTING\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj",
-        "packagesPath": "C:\\Users\\czana\\.nuget\\packages\\",
-        "outputPath": "D:\\#08_COURS\\2020-2021\\MODULES-2020-2021\\M226\\#_NEW\\SORTING\\TriVoitureOrderBy - Eleve\\TriVoiture\\obj\\",
+        "projectPath": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_04_TriVoitureOrderBy_Eleve\\TriVoitureOrderBy - Eleve\\TriVoiture\\TriVoiture.csproj",
+        "packagesPath": "C:\\Users\\ERIK RAPIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_04_TriVoitureOrderBy_Eleve\\TriVoitureOrderBy - Eleve\\TriVoiture\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\czana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ERIK RAPIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -31,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
