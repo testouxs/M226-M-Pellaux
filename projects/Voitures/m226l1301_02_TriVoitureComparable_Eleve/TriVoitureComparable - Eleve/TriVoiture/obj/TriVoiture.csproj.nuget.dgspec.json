@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ERIK RAPIN\\Downloads\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj": {}
+    "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ERIK RAPIN\\Downloads\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj": {
+    "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ERIK RAPIN\\Downloads\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj",
+        "projectUniqueName": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj",
         "projectName": "TriVoiture",
-        "projectPath": "C:\\Users\\ERIK RAPIN\\Downloads\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj",
+        "projectPath": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\TriVoiture.csproj",
         "packagesPath": "C:\\Users\\ERIK RAPIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ERIK RAPIN\\Downloads\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\obj\\",
+        "outputPath": "C:\\Users\\ERIK RAPIN\\Desktop\\folder\\Year 3\\Module M226 Pellaux\\M226-M-Pellaux\\projects\\Voitures\\m226l1301_02_TriVoitureComparable_Eleve\\TriVoitureComparable - Eleve\\TriVoiture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ERIK RAPIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

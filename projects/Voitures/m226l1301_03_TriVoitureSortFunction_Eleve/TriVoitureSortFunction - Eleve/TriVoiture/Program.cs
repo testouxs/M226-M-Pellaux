@@ -9,9 +9,22 @@ namespace TriVoiture
         /// <summary>
         /// A mettre à jour
         /// </summary>
-        static public ComparePuissance()
+        static public int ComparePuissance(Voiture voit1, Voiture voit2)
         {
-            
+            int result = 0;
+            if (voit1.Puissance > voit2.Puissance)
+            {
+                result = 1;
+            }
+            else if (voit1.Puissance < voit2.Puissance)
+            {
+                result = -1;
+            }
+            else if (voit1.Puissance == voit2.Puissance)
+            {
+                result = 0;
+            }
+            return result;
         }
 
         static void Main(string[] args)
